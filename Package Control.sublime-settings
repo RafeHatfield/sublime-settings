@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"BracketHighlighter",
+		"ColdFusion",
+		"Drupal Project Autocomplete",
+		"Drupal Snippets",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"sublimelint",
+		"Twitter Bootstrap Snippets",
+		"WordHighlight"
+	]
+}
